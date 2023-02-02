@@ -25,13 +25,15 @@ a:hover{
     background-color: rgb(28,28,28); /*white; */
 }
 
-h1{
+h2{
     font-weight: bold;
     text-transform: capitalize;
 }
 
-h2{
-    font-weight: bold;
+h1{
+	font-weight: bold;
+	font-size: 3em;
+	line-height: 1em;
 }
 
 .title{
@@ -91,4 +93,9 @@ blockquote{
 code{
     background-color: #ccc;
     padding: 5px;
+}
+
+.grey{
+	background-color: #ccc;
+	padding: 2px;
 }
