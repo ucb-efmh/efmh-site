@@ -6,6 +6,8 @@ title: Alumni
 layout: base
 ---
 
+{% include back_home_link.html %}
+
 <div class="block">
 <h1>PhD Alumni</h1><br /> 
 

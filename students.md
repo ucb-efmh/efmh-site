@@ -6,12 +6,14 @@ title: Students
 layout: base
 ---
 
+{% include back_home_link.html %}
+
 <div class="block">
 	<h1>Students</h1>
 </div>
 
 <div class="miniblock">
-	<img class="headshot" src="images/lukas.png"><br />
+	<img class="headshot" src="images/lukas.jpg"><br />
 	<p><strong>Lukas WinklerPrins</strong><br />
 	Lukas researches connections between hydrologic conditions, sediment transport, and geomorphology in estuaries. He is particularly interested in the impacts of changing climate and anthropogenic modification. Contrary to his background in mathematics, he loves doing field work. </p>
 </div>

@@ -16,14 +16,13 @@ layout: base
 </div>
 
 <div class="block">
-Sub-Pages will include: 
+Explore our group: <br />
 
-- about
-- faculty
-- students
-- alumni
-- resources
-
+<a href="/students">Students</a><br />
+<a href="/students">Faculty</a><br />
+<a href="/alumni">Alumni</a><br />
+<a href="/">History</a> (to come)<br />
+<a href="/">Resources</a> (to come)<br />
 </div>
 
 <div class="block">
