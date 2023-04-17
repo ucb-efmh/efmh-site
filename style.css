@@ -73,6 +73,16 @@ ul{
     margin-bottom: 5vh;
 }
 
+.miniblock{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.miniblock img{
+	max-width: 400px;
+	max-height: 400px;
+}
+
 p{
     margin: 20px 0px;
 }
