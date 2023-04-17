@@ -22,8 +22,8 @@ title: UCB EFMH
 email: lukas_wp@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The Environmental Fluid Mechanics and Hydrology Group (EFMH) in Civil & Environmental Engineering at University of California, Berkeley. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com 
+baseurl: "/efmh-site" # the subpath of your site, e.g. /blog
+url: "https://ucb-efmh.github.io" # the base hostname & protocol for your site, e.g. http://example.com 
 
 # Build settings
 theme: minima
