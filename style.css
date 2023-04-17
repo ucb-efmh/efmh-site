@@ -48,6 +48,7 @@ ul{
     list-style-type: disc;
 }
 
+/*
 @media only screen and (max-width: 600px) {
 	#container{
 	    width: 90vw;
@@ -58,11 +59,13 @@ ul{
 		max-width: 600px;
 	}
 }
+*/
 
 
 #container{
     margin-left: 5vw;
 	width: 80vw;
+	display: inline-block;
 }
 #container img{
     max-width: 100%;
@@ -74,13 +77,16 @@ ul{
 }
 
 .miniblock{
-	margin-top: 10px;
-	margin-bottom: 10px;
+	display: inline-block;
+	width: 18vw;
+	min-width: 350px;
+	margin-bottom: 60px;
+	vertical-align: top;
 }
 
 .miniblock img{
-	max-width: 400px;
-	max-height: 400px;
+	max-width: 350px;
+	max-height: 350px;
 }
 
 p{
