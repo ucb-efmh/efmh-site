@@ -42,7 +42,7 @@ layout: base
 </div>
 
 <div class="miniblock">
-	<img class="headshot" src="images/mark.jpg"><br />
+	<img class="headshot" src="images/mark.png"><br />
 	<p><strong>Mark Stacey</strong><br />
 	<a href="https://ce.berkeley.edu/people/faculty/stacey">site</a>
 	</p>
