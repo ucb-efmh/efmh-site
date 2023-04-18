@@ -13,6 +13,13 @@ layout: base
 </div>
 
 <div class="miniblock">
+	<img class="headshot" src="images/alexis.jpg"><br />
+	<p><strong>Alexis Kaminski</strong><br />
+	***
+	</p>
+</div>
+
+<div class="miniblock">
 	<img class="headshot" src="images/cynthia.jpg"><br />
 	<p><strong>Cynthia Gerlein-Safdi</strong><br />
 	Professor Gerlein-Safdi's research focuses on ecohydrology and the connections between the water and the carbon cycles in natural ecosystems. Current projects include leveraging new remote sensing techniques to map out wetlands for methane emissions modeling, effects of climate warming on fog water use by vegetation along the California coast, and the development of new methods related to solar-induced chlorophyll fluorescence to understand the link between water availability and photosynthesis.
@@ -37,7 +44,7 @@ layout: base
 <div class="miniblock">
 	<img class="headshot" src="images/mark.jpg"><br />
 	<p><strong>Mark Stacey</strong><br />
-	***
+	<a href="https://ce.berkeley.edu/people/faculty/stacey">site</a>
 	</p>
 </div>
 

@@ -16,6 +16,7 @@ layout: base
 	<img class="headshot" src="images/lukas.jpg"><br />
 	<p><strong>Lukas WinklerPrins</strong><br />
 	Lukas researches connections between hydrologic conditions, sediment transport, and geomorphology in estuaries. He is particularly interested in the impacts of changing climate and anthropogenic modification. Contrary to his background in mathematics, he loves doing field work. </p>
+	<br /><a href="mailto:lukas_wp@berkeley.edu">lukas_wp@berkeley.edu</a>
 </div>
 
 <div class="miniblock">
@@ -39,8 +40,17 @@ layout: base
 <div class="miniblock">
 	<img class="headshot" src="images/lily.jpg"><br />
 	<p><strong>Lily Engel</strong><br />
-	Lily is interested in how climate change scenarios altering the physics of an estuary will affect the corresponding ecosystem. She uses simplified models to investigate these scenarios with case studies in San Francisco Bay, Puget Sound, and Lake Erie.</p>
+	My current research uses idealized numerical models to study physical-biological interactions in an estuary including what I call the Peter-Parker Model. After graduation, I will be using larval-transport models to predict the spread of the invasive European Green Crab in the Salish Sea at Pacific Northwest National Laboratory-Seattle as a postdoc. In my free time, I enjoy hiking, rock climbing, trying new restaurants, and choral singing.
+	</p>
 </div>
+
+<div class="miniblock">
+	<img class="headshot" src="images/tvetene.jpg"><br />
+	<p><strong>Tvetene Carlson</strong><br />
+	Tvetene is an experimentalist and community engaged researcher. He's studying tidal renewable energy in particular by characterizing the hydrodynamic properties of a novel kite system in a flume and soon tow tank. He's particularly excited to conduct interviews with Alaskan Native elders, hunter, fishers, and other subsistence practitioners about how this system and other renewable energy systems could impact Native food systems and culture.
+	</p>
+</div>
+
 
 
 <div class="block">
