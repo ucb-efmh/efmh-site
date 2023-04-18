@@ -15,7 +15,7 @@ layout: base
 <div class="miniblock">
 	<img class="headshot" src="images/alexis.jpg"><br />
 	<p><strong>Alexis Kaminski</strong><br />
-	***
+	Prof. Kaminski's research focuses on stratified geophysical and environmental flows, such as those in the ocean and atmosphere. In particular, she is interested in waves and instabilities in stratified flows, and how these flows transition to turbulence and mix the background state. She uses a range of approaches to study these problems, including numerical simulations, theory, and observations from the upper ocean. More info can be found at her <a href="https://akkaminski.github.io">website</a>. 
 	</p>
 </div>
 
