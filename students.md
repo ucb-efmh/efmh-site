@@ -15,7 +15,7 @@ layout: base
 <div class="miniblock">
 	<img class="headshot" src="images/lukas.jpg"><br />
 	<p><strong>Lukas WinklerPrins</strong><br />
-	Lukas researches connections between hydrologic conditions, sediment transport, and geomorphology in estuaries. He is particularly interested in the impacts of changing climate and anthropogenic modification. Contrary to his background in mathematics, he loves doing field work. </p>
+	Lukas researches connections between hydrologic conditions, sediment transport, and geomorphology in estuaries. He is particularly interested in the impacts of changing climate and anthropogenic modification on restoration and conservation of wetlands. Contrary to his background in mathematics, he loves doing field work. </p>
 	<br /><a href="mailto:lukas_wp@berkeley.edu">lukas_wp@berkeley.edu</a>
 </div>
 
