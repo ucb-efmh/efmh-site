@@ -51,6 +51,12 @@ layout: base
 	</p>
 </div>
 
+<div class="miniblock">
+	<img class="headshot" src="images/tj.jpg"><br />
+	<p><strong>Tianjiao Pu</strong><br />
+	Tianjiao is focusing on mapping waterbodies and flooding combining CYGNSS and machine learning techniques to improve methane emissions and better understand how areas of flooding and wildfires can emerge in various landscapes under specific hydrological conditions.
+	</p>
+</div>
 
 
 <div class="block">
