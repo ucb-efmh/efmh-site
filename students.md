@@ -58,6 +58,15 @@ layout: base
 	</p>
 </div>
 
+<div class="miniblock">
+	<img class="headshot" src="images/vincent.jpg"><br />
+	<p><strong>Vincent Laroche</strong><br />
+	Vincent's current research explores the impact of small-scale ocean mixing on phytoplankton blooms and carbon export into the ocean interior. He studies this using direct numerical simulations of an idealized nutrient-phytoplankton model in the context of a stratified shear instability event.
+	</p>
+</div>
+
+
+
 
 <div class="block">
 &nbsp;
