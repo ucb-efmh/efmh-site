@@ -5,4 +5,4 @@
 layout: base
 ---
 
-Testing new EFMH site. 
+Testing new EFMH site. Hello World.
