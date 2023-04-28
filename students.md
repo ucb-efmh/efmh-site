@@ -65,6 +65,21 @@ layout: base
 	</p>
 </div>
 
+<div class="miniblock">
+	<img class="headshot" src="images/matt.jpg"><br />
+	<p><strong>Matthew Falcone</strong><br />
+	Matt researches the hydrodynamics of coastal ecosystems, currently focusing on the role of vegetation in nearshore processes such as wave attenuation. His work on coastal green infrastructure (e.g, marshes) connects to his broader interests in climate change adaptation and planning.
+	</p>
+</div>
+
+<div class="miniblock">
+	<img class="headshot" src="images/shuai.jpg"><br />
+	<p><strong>Shuai Meng</strong><br />
+	Shuai’s work focuses on the data-driven analysis in the context of stratified shear instability events in the transition layer of ocean. Currently, he is working on the energy budget and mixing efficiency of the Kelvin-Helmholtz and Holmboe instabilities based on numerical simulations. He is particularly interested in the applications of physics-informed neural networks in the field of oceanography. 
+	</p>
+</div>
+
+
 
 
 
