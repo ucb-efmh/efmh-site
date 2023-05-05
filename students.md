@@ -79,6 +79,14 @@ layout: base
 	</p>
 </div>
 
+<div class="miniblock">
+	<img class="headshot" src="images/adam.jpg"><br />
+	<p><strong>Adam Wise</strong><br />
+		Adam’s research focuses on multiscale atmospheric modeling applied to wind energy. His focus is on how the interaction between thermal stratification and terrain can impact turbulent flow features. He then models how this turbulence affects wind turbine wakes and wind farm efficiency. He uses dynamic turbulence modeling methods to more efficiently simulate turbulent flow in a range of atmospheric stability conditions.
+	</p>
+</div>
+
+
 
 
 
