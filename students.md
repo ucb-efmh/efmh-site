@@ -86,6 +86,19 @@ layout: base
 	</p>
 </div>
 
+<div class="miniblock">
+	<img class="headshot" src="images/kelly.jpg"><br />
+	<p><strong>Kelly Clevenson</strong><br />
+		Kelly’s work focuses on the ignition and spread of wildfires! Currently, she is focused on analyzing a dataset of fire spread over a gap under different conditions in order to better understand and predict safety zones for wildland firefighters. Additionally, Kelly does some research on how convective heat transfer impacts the ignition of small diameter fuels.
+	</p>
+</div>
+
+
+
+
+
+
+
 
 
 
