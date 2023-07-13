@@ -23,6 +23,7 @@ layout: base
 	<img class="headshot" src="images/cynthia.jpg"><br />
 	<p><strong>Cynthia Gerlein-Safdi</strong><br />
 	Professor Gerlein-Safdi's research focuses on ecohydrology and the connections between the water and the carbon cycles in natural ecosystems. Current projects include leveraging new remote sensing techniques to map out wetlands for methane emissions modeling, effects of climate warming on fog water use by vegetation along the California coast, and the development of new methods related to solar-induced chlorophyll fluorescence to understand the link between water availability and photosynthesis.
+	https://sites.google.com/berkeley.edu/gerlein-safdi/
 	</p>
 </div>
 
@@ -38,12 +39,14 @@ layout: base
 	<img class="headshot" src="images/tina.jpg"><br />
 	<p><strong>Tina Chow</strong><br />
 	***
+	https://chow.ce.berkeley.edu/
 	</p>
 </div>
 
 <div class="miniblock">
-	<img class="headshot" src="images/mark.png"><br />
+	<img class="headshot" src="images/mark.JPG"><br />
 	<p><strong>Mark Stacey</strong><br />
+	Professor Stacey's academic activities focus on coastal climate change and adaptation. His research emphasizes the interaction of environmental and anthropogenic processes in coastal regions, where he uses a range of methods (numerical, observational, theoretical) to quantify and understand interdependencies in the system. Recent work has highlighted how shoreline policies and projects interact with environmental processes, leading to regional change. Professor Stacey teaches courses focusing on climate change adaptation broadly (undergraduate), climate resilient infrastructure (graduate), and environmental fluid mechanics (undergraduate and graduate).
 	<a href="https://ce.berkeley.edu/people/faculty/stacey">site</a>
 	</p>
 </div>
