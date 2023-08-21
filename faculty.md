@@ -30,7 +30,7 @@ layout: base
 <div class="miniblock">
 	<img class="headshot" src="images/evan.jpg"><br />
 	<p><strong>Evan Variano</strong><br />
-	***
+	Variano studies flow at interfaces, which often creates or is responding to turbulence.  The turbulence can have strong effects on transport of environmentally relevant substances, both at an interface and far from it.  Applications include the base of the aquatic food chain, gas exchange between water and atmosphere, and sediment transport.  Laboratory methods allow us to calibrate numerical and theoretical models, and field work keeps our perspective accurate. 
 	</p>
 </div>
 
