@@ -81,6 +81,11 @@ conditions for mesoscale models (PhD 2010)<br>
 
 <br>
 
+<strong>Lilian Engel</strong><br>
+<em>Thesis:</em> Into the Plankter-Verse: Physical-Biological Interactions in Estuaries (PhD 2023)<br>
+
+<br>
+
 <strong>Madeline Foster-Martinez</strong><br>
 <em>Thesis:</em> Marsh Dynamics: Laboratory and Field Investigations of Gas Transport, Wave Attenuation, and Biosolids Amendment (PhD 2017)<br>
 

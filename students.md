@@ -37,12 +37,14 @@ layout: base
 	Alexandre's work focuses on sediment transport, hydrology, remote sensing and hydrodynamic modeling to not only track the evolution of mangrove forests in Haiti and the Caribbean, but also study their potential as natural coastal protection infrastructure against sea-level rise. He is also interested in the use of Data Science and Public Policy to tackle the challenge of climate change in the Caribbean region.</p>
 </div>
 
+<!--
 <div class="miniblock">
 	<img class="headshot" src="images/lily.jpg"><br />
 	<p><strong>Lily Engel</strong><br />
 	Lily’s current research uses idealized numerical models to study physical-biological interactions in an estuary including what she calls the Peter-Parker Model. After graduation, she will be using larval-transport models to predict the spread of the invasive European Green Crab in the Salish Sea at Pacific Northwest National Laboratory-Seattle as a postdoc. In her free time, she enjoys hiking, rock climbing, trying new restaurants, and choral singing.
 	</p>
 </div>
+-->
 
 <div class="miniblock">
 	<img class="headshot" src="images/tvetene.jpg"><br />
