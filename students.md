@@ -28,7 +28,8 @@ layout: base
 <div class="miniblock">
 	<img class="headshot" src="images/paul.jpg"><br />
 	<p><strong>Paul Seibert</strong><br />
-	Paul's research focuses on remote sensing data assimilation in the context of ecohydrology. Currently, this takes the form of using TROPOMI solar-induced fluorescence data to predict evapotranspiration at a field site in Colorado.</p>
+	Paul's current research explores the ecohydrological dynamics of coastal Califonian grasslands. He is particularly interested in the role of fog in ecosystem water use efficiency. In addition, Paul works with a novel ground-based solar-induced fluorescence imager to understand the drivers of photosynthesis across landscapes via remote sensing. 
+	</p>
 </div>
 
 <div class="miniblock">
