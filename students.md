@@ -28,7 +28,7 @@ layout: base
 <div class="miniblock">
 	<img class="headshot" src="images/paul.jpg"><br />
 	<p><strong>Paul Seibert</strong><br />
-	Paul's current research explores the ecohydrological dynamics of coastal Califonian grasslands. He is particularly interested in the role of fog in ecosystem water use efficiency. In addition, Paul works with a novel ground-based solar-induced fluorescence imager to understand the drivers of photosynthesis across landscapes via remote sensing. 
+	Paul's current research explores the ecohydrological dynamics of California's coastal grasslands. He is particularly interested in the role of fog in ecosystem water use efficiency. In addition, Paul works with a novel ground-based solar-induced fluorescence imager to understand the drivers of photosynthesis across landscapes via remote sensing. 
 	</p> 
 	<br /> <a href="https://paul-seibert.github.io/">website</a> / <a href="mailto:paul_seibert@berkeley.edu">paul_seibert@berkeley.edu</a>
 </div>
