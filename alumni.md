@@ -176,6 +176,11 @@ coastal Pacific Ocean (PhD 2006)<br>
 
 <br>
 
+<strong> Tessa Maurer </strong><br>
+<em>Thesis:</em> Development of Novel Data Applications for Improving Precipitation-Runoff Modeling in Headwater Catchments (PhD 2020)<br>
+
+<br>
+
 <strong> Marc Muller</strong><br>
 <em>Thesis:</em> Bridging the Information Gap: Remote Sensing and Micro Hydropower Feasibility in Data-Scarce Regions (PhD 2015)<br>
 
