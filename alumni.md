@@ -287,6 +287,12 @@ Branching Estuarine System (PhD 2012)<br>
 
 <br>
 
+<strong>Lukas WinklerPrins</strong><br>
+<em>Thesis:</em> How A Marsh Falls Apart (PhD 2023)<br>
+<!-- amphidromic.net --> 
+
+<br>
+
 <strong>Minghui Zhang</strong><br>
 <em>Thesis:</em> Monitoring agricultural behavior under climate change with cloud computing and satellite imagery (PhD 2020)<br>
 

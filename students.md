@@ -13,13 +13,6 @@ layout: base
 </div>
 
 <div class="miniblock">
-	<img class="headshot" src="images/lukas.jpg"><br />
-	<p><strong>Lukas WinklerPrins</strong><br />
-	Lukas researches connections between hydrologic conditions, sediment transport, and geomorphology in estuaries. He is particularly interested in the impacts of changing climate and anthropogenic modification on restoration and conservation of wetlands. Contrary to his background in mathematics, he loves doing field work. </p>
-	<br /><a href="http://amphidromic.net">site</a> / <a href="mailto:lukas_wp@berkeley.edu">lukas_wp@berkeley.edu</a>
-</div>
-
-<div class="miniblock">
 	<img class="headshot" src="images/ann.jpg"><br />
 	<p><strong>Ann Scheliga</strong><br />
 	Ann's research focuses on large-scale anthropogenic processes impacting terrestrial hydrology. Currently, she is working on comparing modeled and observational contributions to sea-level rise. She is particularly interested in the use of satellite observations to improve groundwater estimates in climate models.</p>
