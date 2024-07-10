@@ -91,9 +91,12 @@ layout: base
 </div>
 
 
-
-
-
+<div class="miniblock">
+	<img class="headshot" src="images/Leo.jpg"><br />
+	<p><strong>Zichuan Li</strong><br />
+		Leo's current research focuses on turbulent plumes in natural environments, such as volcanic eruptions and forest fires. He studies these phenomena using direct numerical simulations to identify and quantify turbulent eddies in plumes. His work aims to remotely determine source conditions and investigate the physical mechanisms of mixing and entrainment at the plume/ambient interface.
+	</p>
+</div>
 
 
 
