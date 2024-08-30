@@ -90,7 +90,12 @@ layout: base
 	</p>
 </div>
 
-
+<div class="miniblock">
+	<img class="headshot" src="images/jenna.jpg"><br />
+	<p><strong>Jenna Israel</strong><br />
+		Jenna is interested in mechanistic approaches to predicting the response of ecosystems to climate change. She works on projects with a variety of methods, from lab experimnets investigating the thermodynamics of microbial carbon cycling to hydrodynamic simulations of salinity intrusion in the Sacramento-San Joaquin Delta. Common themes include physics-based modeling of energy flows and their signatures.
+	</p>
+</div>
 
 
 
