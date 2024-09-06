@@ -99,9 +99,9 @@ layout: base
 
 
 <div class="miniblock">
-	<img class="headshot" src="images/leo.jpg"><br />
+	<img class="headshot" src="images/leo.JPG"><br />
 	<p><strong> Zichuan (Leo) Li</strong><br />
-		JLeo studies turbulent plumes in natural environments, such as volcanic eruptions and forest fires. Using direct numerical simulations, he aims to remotely determine source conditions and investigate the physical mechanisms of mixing and entrainment at the plume/ambient interface. His current work focuses on how time-varying source conditions affect plume dynamics.
+		Leo studies turbulent plumes in natural environments, such as volcanic eruptions and forest fires. Using direct numerical simulations, he aims to remotely determine source conditions and investigate the physical mechanisms of mixing and entrainment at the plume/ambient interface. His current work focuses on how time-varying source conditions affect plume dynamics.
 	</p>
 </div>
 
