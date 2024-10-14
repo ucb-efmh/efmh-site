@@ -29,7 +29,7 @@ layout: base
 <div class="miniblock">
 	<img class="headshot" src="images/alex.jpg"><br />
 	<p><strong>Alexandre Georges</strong><br />
-	Alexandre's work focuses on sediment transport, hydrology, remote sensing and hydrodynamic modeling to not only track the evolution of mangrove forests in Haiti and the Caribbean, but also study their potential as natural coastal protection infrastructure against sea-level rise. He is also interested in the use of Data Science and Public Policy to tackle the challenge of climate change in the Caribbean region.</p>
+	Alexandre's work focuses on hydrology, remote sensing and hydrodynamic modeling to not only track the evolution of mangrove forests in Haiti and the Caribbean, but also study their potential as natural coastal protection infrastructure against sea-level rise. He is interested in data-driven and equitable adaptations to tackle the challenge of climate change in the Caribbean region.</p>
 </div>
 
 <!--
